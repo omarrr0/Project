@@ -1,5 +1,6 @@
 Hello
 Test 2
+okay
 CREATE TABLE `portfolio` (
   `id` int(6) NOT NULL,
   `image` varchar(255) NOT NULL,
