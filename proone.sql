@@ -1,11 +1,4 @@
-
-) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_general_ci;
-
--- --------------------------------------------------------
-
---
--- Table structure for table `portfolio`
---
+Hello
 
 CREATE TABLE `portfolio` (
   `id` int(6) NOT NULL,
